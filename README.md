@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**designer214/designer214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Hi, I'm Franklin Nzioki
 
-Here are some ideas to get you started:
+## About Me
+- I'm currently learning Artificial intelligence at We Can Academy 
+- I'm interested in AI
+- I'm looking to collaborate on beginner-friendly open source project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills I'm Building
+- Git and GitHub
+ - Python, HTML/CSS, Machine Learning,Javascript, SQL, Swift
+
+## Current Projects
+- Artificial Intelligence — to develop computer systems with ability of simulating human intelligence to solve problems, perform complex tasks and make decions independently 
+
+## How to Reach Me
+- Email: nziokifranklin13@gmail.com
+- LinkedIn: https://www.linkedin.com/in/mr-nzioki-112b80320?utm_source=share_via&utm_content=profile&utm_medium=member_android
